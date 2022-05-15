@@ -1,0 +1,9 @@
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/10.tif 172,47,191,62,0 106,61,115,70,0 195,95,207,106,0 214,94,231,104,0
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/6.tif 95,26,114,41,0 29,40,38,49,0 118,74,130,85,0 137,73,154,83,0
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/7.tif 145,77,164,92,0 79,91,88,100,0 168,125,180,136,0 187,124,204,134,0
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/8.tif 172,47,191,62,0 106,61,115,70,0 195,95,207,106,0 214,94,231,104,0
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/9.tif 172,47,191,62,0 106,61,115,70,0 195,95,207,106,0 214,94,231,104,0
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/g35_New-1.tif 176,69,210,108,1 211,62,249,97,1 120,111,150,158,1
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/j23_New-1.tif 194,110,221,141,2 228,106,240,120,2 228,106,240,120,2 245,106,258,121,2 223,128,237,137,2 175,57,191,67,2 145,71,175,107,2
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/s63_New-1.tif 186,106,230,144,3 270,35,295,77,4
+D:\tiny-yolov3-potatoes-fpg/VOC2007/Labeltif/y87_New-1.tif 219,55,231,69,4 246,102,265,124,4 216,135,233,147,4 187,116,216,142,4 126,82,135,92,4

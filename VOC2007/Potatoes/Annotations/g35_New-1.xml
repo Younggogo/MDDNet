@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dry rot</folder>
+	<filename>g35_New-1.tif</filename>
+	<path>D:\小学生专用学习文件夹\杨宇\博士研究\1 研究成果\SCI论文\paper 6 基于深度学习的土豆外部损伤检测\data\tiff dry rot potato\dry rot\g35_New-1.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dry rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>69</ymin>
+			<xmax>210</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dry rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>62</ymin>
+			<xmax>249</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dry rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>111</ymin>
+			<xmax>150</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>
