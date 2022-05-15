@@ -25,7 +25,7 @@ If you find this work or code is helpful in your research, please cite:
 
 Yu Yang, Zhenfang Liu, Min Huang, Qibing Zhu, Xin Zhao. Detection and identification of multi-type defects on potatoes using multispectral imaging combined with a deep learning model.
 
-# Acknowledgment
+# Acknowledgments
 Tiny-yolov3 (Keras): https://github.com/Eatzhy/tiny-yolov3
 
 Res2Net (Keras): https://github.com/fupiao1998/res2net-keras/blob/master/res2net.py
